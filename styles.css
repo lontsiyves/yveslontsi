@@ -59,7 +59,7 @@ a {
 }
 
 .name {
-    font-size: 2rem;
+    font-size: 1rem;
     color: white;
     text-align: center;
     text-transform: uppercase;
@@ -67,6 +67,10 @@ a {
     padding: 1.2rem 0;
 }
 
+.footer {
+    text-align: center;
+    padding-bottom: 1rem;
+}
 .career {
     font-size: 1.2rem;
     color: #94d9ea;
