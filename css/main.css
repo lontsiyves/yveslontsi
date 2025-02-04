@@ -9,6 +9,11 @@ body {
     background-color: #94d9ea;
 }
 
+.footer {
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
 .site {
     color: #2d9cdb;
 }
